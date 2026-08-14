@@ -1,4 +1,4 @@
-# package: com.staymind
+# package: com.helloworld
 
 def add(a, b):
     """Return the sum of a and b."""
