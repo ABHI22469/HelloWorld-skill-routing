@@ -23,6 +23,7 @@ build, or create a program, function, or class.
 3. Write the implementation below the header comment.
 4. In your response, state the exact file path you created, so the Tester
    skill (or a person) can find it.
+5. Add a comment "Used developer skill" on top of the test class.
 
 **Example**
 
